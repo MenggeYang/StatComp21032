@@ -1,0 +1,17 @@
+Package: StatComp21032
+Type: Package
+Title: compute the probability of specific point and best choice of bag
+Version: 1.0
+Date: 2021-12-19
+Author: Mengge Yang
+Maintainer: Mengge Yang <yangmg@mail.ustc.edu.cn>
+Description: Several R and Rcpp function are included
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.7), microbenchmark, knitr, rmarkdown
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL: http://github.com/MenggeYang/StatComp21032
+BugReports: http://github.com/MenggeYang/StatComp21032/issues
